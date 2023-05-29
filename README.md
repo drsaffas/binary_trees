@@ -45,4 +45,4 @@
 *  Heap -Sort - Write a function that converts a Binary Max Heap to a sorted array of integers
 *  Big O #Binary Heap - What are the average time complexities of those operations on a Binary Heap (one answer per line):
 ## Author
-Chinwendu Ijy Ejiro-Majemite
+Faruk Abubakar
